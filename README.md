@@ -21,3 +21,7 @@ Hallazgos Clave
 Evolución de Géneros: Se detectaron cambios significativos en la popularidad de ciertos géneros entre los años 2004 y 2018.
 
 Tendencias de Usuario: El análisis permitió visualizar el crecimiento de la base de usuarios y sus hábitos de calificación a través del tiempo.
+
+## 📄 Reporte de Hallazgos
+He elaborado un informe detallado con conclusiones estratégicas y recomendaciones de negocio basadas en los datos analizados.
+**[Descargar Informe en PDF](./Análisis_de_Comportamiento_y_Retención_en_MyAnimeList.pdf)**
