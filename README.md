@@ -24,4 +24,4 @@ Tendencias de Usuario: El análisis permitió visualizar el crecimiento de la ba
 
 ## Reporte de Hallazgos
 He elaborado un informe detallado con conclusiones estratégicas y recomendaciones de negocio basadas en los datos analizados.
-**[Descargar Informe en PDF](./Análisis_de_Comportamiento_y_Retención_en_MyAnimeList.pdf)**
+**[Descargar Informe en PDF](./Reporte_MyAnimeList_Joaquin_Herrera.pdf)**
